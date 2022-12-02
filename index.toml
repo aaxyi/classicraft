@@ -5,6 +5,10 @@ file = "config/enhanced_bes.properties"
 hash = "f0f52a7e6f0715fddf0d2a0d127241100a526edd113ed6f320f2698ef5e105e1"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "ffc1aca178e3cfee73bca954c2161f13f45a2e4dc60cc71d81001814ddc10109"
+
+[[files]]
 file = "config/nostalgic_tweaks.json"
 hash = "ea23ba559bd310a127ca399e63e382300d7ba2fd06fe7c1d261550346d80ddc8"
 
@@ -178,9 +182,19 @@ hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "f2a445a4438b69d2107aeb97bf8a39be2fa312c354987bae4e54682f88084229"
+
+[[files]]
 file = "resourcepacks/Caves and cliffs replacement pack.zip"
 hash = "66e9b9a59e07bfdd8f292bfb8c26ddeecb67ee89a5bbc6989e1cbb7516a68a94"
 
 [[files]]
-file = "resourcepacks/Developer.Art.Classic.1.19.2_45.zip"
-hash = "b5b33d097afc6ac5c6dc79c67b536102fe0e5698acb1195b1f0c0f9702f70f88"
+file = "resourcepacks/developer-art-classic.pw.toml"
+hash = "b4f0413a7d9f17b6ce775dcb507d39bbb825847e4c84084cef8897ad5781b84c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hybrid-beta-world-gen.pw.toml"
+hash = "39b04209d9bb462a33091a6a05cf1563e3805e551cc71dc6dc001865063dbd57"
+metafile = true

@@ -1,0 +1,7 @@
+name = "Developer Art Classic"
+filename = "Developer.Art.Classic.1.19.2_45.zip"
+
+[download]
+url = "https://github.com/shmoobalizer/DevArt_Classic/releases/download/1.19.2_45/Developer.Art.Classic.1.19.2_45.zip"
+hash-format = "sha1"
+hash = "11f51e0eebecbccd092f126c08f0948c7090540d"

@@ -86,7 +86,7 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.alt
+key_key.sprint:key.keyboard.left.control
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -114,8 +114,6 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_key.antighost.reveal:key.keyboard.h
-key_key.entityculling.toggle:key.keyboard.unknown
 key_key.nostalgic_tweaks.open_config:key.keyboard.semicolon
 key_key.nostalgic_tweaks.toggle_fog:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
@@ -123,7 +121,7 @@ key_iris.keybind.reload:key.keyboard.y
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:1.0
-soundCategory_music:0.70422536
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

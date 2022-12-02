@@ -1,0 +1,7 @@
+name = "Hybrid Beta World Gen"
+filename = "Hybrid.Beta.1.19.v0.9.4.zip"
+
+[download]
+url = "https://github.com/Crystalis7/Hybrid-Beta/releases/download/v0.9.4%2F1.19/Hybrid.Beta.1.19.v0.9.4.zip"
+hash-format = "sha1"
+hash = "7c322aae282a3b9f1316be4a20aa0b32df320d0b"
