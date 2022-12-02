@@ -1,0 +1,16 @@
+name = "Classicraft"
+author = "Axyria"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6b928af64f2cb1818e1c7d07d72ba31bccf258d8a6a8a602f52f2c1ca64719d6"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.21"
+
+[options]
+acceptable-game-versions = ["1.19.2", "1.19"]
