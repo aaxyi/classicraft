@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "f0f52a7e6f0715fddf0d2a0d127241100a526edd113ed6f320f2698ef5e105e1"
+
+[[files]]
+file = "config/nostalgic_tweaks.json"
+hash = "ea23ba559bd310a127ca399e63e382300d7ba2fd06fe7c1d261550346d80ddc8"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
@@ -164,3 +176,11 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Caves and cliffs replacement pack.zip"
+hash = "66e9b9a59e07bfdd8f292bfb8c26ddeecb67ee89a5bbc6989e1cbb7516a68a94"
+
+[[files]]
+file = "resourcepacks/Developer.Art.Classic.1.19.2_45.zip"
+hash = "b5b33d097afc6ac5c6dc79c67b536102fe0e5698acb1195b1f0c0f9702f70f88"
