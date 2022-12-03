@@ -52,6 +52,11 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "1a249012c4371ea18605087edaf1d72eee3d60674d62376232e7b271b98c699b"
 metafile = true
@@ -129,11 +134,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
