@@ -87,11 +87,6 @@ hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
-metafile = true
-
-[[files]]
 file = "mods/kappa.pw.toml"
 hash = "667a7b97e58e05cad8034590e9484a4539f8764e392e80bd2c6c736558997e6e"
 metafile = true
