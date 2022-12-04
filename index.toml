@@ -62,6 +62,21 @@ hash = "1a249012c4371ea18605087edaf1d72eee3d60674d62376232e7b271b98c699b"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "b5c5d9931a55769ff860565394b2c0fb8d046617d738dc3e263d08391a942b95"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "dc155d04bfc0a6749042c1f8fbf4e989603f8af4222ac6c0786e964581ea1e7f"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true

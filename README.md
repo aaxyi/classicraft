@@ -21,3 +21,17 @@ This wouldn't exist without the amazing of work of the following people:
 -   [hybrid beta] by [crystalis7] - A mix of classic-like world generation with modern features
 -   [developer art classic] by [shmoobalizer] - Classic textures and feel back in the game
 -   [packwiz] by [comp500] - The command-line tool used to create the modpack
+
+## Server
+
+In case you need configuration files for a server, you may copy the `config/` directory.
+The recommended mods for a server running Classicraft are:
+
+-   Alternate Current - [Performance] Alternative redstone implementation
+-   Krypton - [Performance] Optimizations for Minecraft's networking stack
+-   Lithium - [Performance] Optimizations for Minecraft's world generation and entity AI
+-   Starlight - [Performance] Rewrite of Minecraft's lighting engine
+-   NoChatReports - [Quality of Life] Prevents chat reports from being sent to the server
+-   FerriteCore - [Performance] Reduces memory usage of Minecraft
+-   memoryLeakFix - [Performance] Fixes a bunch of memory leak issues in Minecraft
+-   Nostalgic Tweaks - [Core] The responsible for the nostalgic experience
