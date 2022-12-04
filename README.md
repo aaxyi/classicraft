@@ -22,10 +22,38 @@ This wouldn't exist without the amazing of work of the following people:
 -   [developer art classic] by [shmoobalizer] - Classic textures and feel back in the game
 -   [packwiz] by [comp500] - The command-line tool used to create the modpack
 
-## Server
+## The goals of this modpack
 
-In case you need configuration files for a server, you may copy the `config/` directory.
-The recommended mods for a server running Classicraft are:
+### Classic feel
+
+The goal of this modpack is to bring back the classic feel of Minecraft alongside modern features.
+This means that the world generation, core features, and textures will be similar to the classic versions
+of the game, but at the same time allowing for modern features.
+
+### Performance
+
+The modpack is designed to be as lightweight as possible, while still providing a good experience.
+
+### Customizable
+
+The modpack is designed to allow you to remove the features you don't want, and add the
+features you do want. By default, these are included:
+
+-   **Old lighting and fog rendering** - The classic lighting engine from Beta 1.7.3
+-   **Classic-like world generation** - A Beta 1.7.3-inspired world generation with modern features
+-   **Classic-like textures, particles, and sounds** - Classic textures, sounds, and feel back in the game
+-   **Extra music nostalgia** - Replace current music with C418 extra soundtrack
+-   **No hunger and sprinting system** - No sprinting and classic hunger: regenerate health by eating,
+    and non-stackable food items
+-   **Directional damage and old animal spawning** - When you received damage, the camera used
+    to tilt in the direction of the damage.
+-   And much more!
+
+### Server-friendly
+
+Classic-like Minecraft wouldn't be complete without multiplayer support, right? Although
+I'm not providing a server pack **for now**, you can easily create one by yourself by
+copying the `config/` folder and using a few mods like:
 
 -   Alternate Current - [Performance] Alternative redstone implementation
 -   Krypton - [Performance] Optimizations for Minecraft's networking stack
@@ -34,4 +62,5 @@ The recommended mods for a server running Classicraft are:
 -   NoChatReports - [Quality of Life] Prevents chat reports from being sent to the server
 -   FerriteCore - [Performance] Reduces memory usage of Minecraft
 -   memoryLeakFix - [Performance] Fixes a bunch of memory leak issues in Minecraft
--   Nostalgic Tweaks - [Core] The responsible for the nostalgic experience
+-   Nostalgic Tweaks 2.0 - [Core] The responsible for the nostalgic experience
+-   Hybrid Beta World Gen (Data Pack) - [Core] The responsible for the nostalgic experience
