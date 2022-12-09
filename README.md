@@ -27,7 +27,6 @@ This wouldn't exist without the amazing of work of the following people:
 -   [packwiz] by [comp500] - The command-line tool used to create the modpack
 -   [no raw ores] by crazyjerz - Bring back the classic ore drops
 -   beta doors by Jimbo - bring back old beta door side textures
--   unlock all recipes by vanilla tweaks (credits.txt)
 
 ## The goals of this modpack
 
