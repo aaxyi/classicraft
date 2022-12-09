@@ -6,7 +6,7 @@ hash = "f0f52a7e6f0715fddf0d2a0d127241100a526edd113ed6f320f2698ef5e105e1"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "ffc1aca178e3cfee73bca954c2161f13f45a2e4dc60cc71d81001814ddc10109"
+hash = "1b7fea1dc95168503efd23fbdf4f4433c814e4a63cdc21344c78bd87c9f2dd34"
 
 [[files]]
 file = "config/nostalgic_tweaks.json"
@@ -24,6 +24,74 @@ hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
 file = "datapacks/optional/hybrid-beta.pw.toml"
 hash = "26fd79cac8c3ba34a02a30e8cf8937df9de1ef188c2e7eec681ffd5503f1d387"
 metafile = true
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/loot_tables/blocks/copper_ore.json"
+hash = "62370d611426223ef0a55246822e3f9d987d6186b5f0339cf4b573e2597daf2d"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/loot_tables/blocks/deepslate_copper_ore.json"
+hash = "eff6667efd758c69a92f39d196928dda813ec3258f6031923f244afaa3759d99"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/loot_tables/blocks/deepslate_gold_ore.json"
+hash = "60285a73674d6d5eb2ad94ca39d6371124b0554b6ee1629a7536f652e82aa17c"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/loot_tables/blocks/deepslate_iron_ore.json"
+hash = "b7be6ce703926dc1b12a2a18fd537ae9e51cfc5cf3fc7c836eaa6cee46308e5b"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/loot_tables/blocks/gold_ore.json"
+hash = "813a13b25a9ff9148def0c24c85abffde833de60ca1dc228427fa8bade33c926"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/loot_tables/blocks/iron_ore.json"
+hash = "66b0b0bcba42defc615ded5c87a4d865a73299ba933d9d65aff20532740b860d"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/recipes/raw_copper.json"
+hash = "946c499c79127f293823c94a9ce06e94fa7fd220a33482d4c3411a5935df8070"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/recipes/raw_copper_block.json"
+hash = "9f2c41282e02216b87b83f6f1998a62e36ed3038e6ae116a55a9b101e2d67761"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/recipes/raw_gold.json"
+hash = "fd21616f888387bdd85a8fd85c93394b74d2838f8cfd87b9ddd7ee4634581a56"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/recipes/raw_gold_block.json"
+hash = "6f69b4824240020140c0e44f5e8b17311a1ca2f246821276cba2be2e178838b6"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/recipes/raw_iron.json"
+hash = "4fee2f898cf8be349fe556d41c7f50f760cc2677cf901eb04910e11986077e04"
+
+[[files]]
+file = "datapacks/required/norawores/data/minecraft/recipes/raw_iron_block.json"
+hash = "e35d9a090ffafb3462a14e81986b50b944fdd108e90a09b1d09cbcad2c0a58c6"
+
+[[files]]
+file = "datapacks/required/norawores/data/norawores/recipes/raw_copper_block.json"
+hash = "0caac9bfca4548cf7669bc16d378e148cfee1dc2eb065cacdbd22f54f3878732"
+
+[[files]]
+file = "datapacks/required/norawores/data/norawores/recipes/raw_gold_block.json"
+hash = "c56c19981b788b5aa98b6443f63747976ce79bc9304a5ef28ef699472b7a3ace"
+
+[[files]]
+file = "datapacks/required/norawores/data/norawores/recipes/raw_iron_block.json"
+hash = "608311fe29fcb2c311e2dec71d1805db67cfb765208247b6d78477bd9fcf4cd3"
+
+[[files]]
+file = "datapacks/required/norawores/pack.mcmeta"
+hash = "8bab7bc9aa31114647aa9db719d5b931cf8f77573e7e640d7351642d29566e82"
+
+[[files]]
+file = "datapacks/required/unlock all recipes v2.0.4.zip"
+hash = "68a3091a073dd5427d586f7104c1c1decb6cad2b896a7807b3557961461b4aca"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -222,11 +290,3 @@ metafile = true
 file = "resourcepacks/developer-art-classic.pw.toml"
 hash = "b4f0413a7d9f17b6ce775dcb507d39bbb825847e4c84084cef8897ad5781b84c"
 metafile = true
-
-[[files]]
-file = "resourcepacks/norawores1191.zip"
-hash = "a251f0de6ec4f6ce0f156f75fc1cffad03b106e6f1875be2895fc0ceb97b213d"
-
-[[files]]
-file = "resourcepacks/unlock all recipes v2.0.4.zip"
-hash = "68a3091a073dd5427d586f7104c1c1decb6cad2b896a7807b3557961461b4aca"
