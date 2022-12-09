@@ -14,13 +14,20 @@ The classic feel of Minecraft must be preserved.
 [shmoobalizer]: https://github.com/shmoobalizer
 [packwiz]: https://github.com/packwiz/packwiz
 [comp500]: https://github.com/comp500
+[no raw ores]: https://www.curseforge.com/minecraft/customization/no-raw-ores-datapack/
+[cabbage beta]: https://github.com/CyborgCabbage/cabbagebeta
+[cyborgcabbage]: https://github.com/CyborgCabbage
 
 This wouldn't exist without the amazing of work of the following people:
 
 -   [nostalgic tweaks] by [adrenix] - The classic feel of Minecraft into modern versions
 -   [hybrid beta] by [crystalis7] - A mix of classic-like world generation with modern features
+-   [cabbage beta] by [cyborgcabbage] - A block-accurate recreation of the Beta 1.7.3 terrain generation
 -   [developer art classic] by [shmoobalizer] - Classic textures and feel back in the game
 -   [packwiz] by [comp500] - The command-line tool used to create the modpack
+-   [no raw ores] by crazyjerz - Bring back the classic ore drops
+-   beta doors by Jimbo - bring back old beta door side textures
+-   unlock all recipes by vanilla tweaks (credits.txt)
 
 ## The goals of this modpack
 
@@ -40,7 +47,8 @@ The modpack is designed to allow you to remove the features you don't want, and 
 features you do want. By default, these are included:
 
 -   **Old lighting and fog rendering** - The classic lighting engine from Beta 1.7.3
--   **Classic-like world generation** - A Beta 1.7.3-inspired world generation with modern features
+-   **Classic-like world generation** - Chose between a Beta 1.7.3-inspired world generation with modern
+    features or a block-perfect recreation of Beta 1.7.3 terrain generation
 -   **Classic-like textures, particles, and sounds** - Classic textures, sounds, and feel back in the game
 -   **Extra music nostalgia** - Replace current music with C418 extra soundtrack
 -   **No hunger and sprinting system** - No sprinting and classic hunger: regenerate health by eating,
@@ -63,4 +71,11 @@ copying the `config/` folder and using a few mods like:
 -   FerriteCore - [Performance] Reduces memory usage of Minecraft
 -   memoryLeakFix - [Performance] Fixes a bunch of memory leak issues in Minecraft
 -   Nostalgic Tweaks 2.0 - [Core] The responsible for the nostalgic experience
--   Hybrid Beta World Gen (Data Pack) - [Core] The responsible for the nostalgic experience
+-   Hybrid Beta World Gen (Data Pack) or Cabbage Beta (Mod) - [Core] The responsible for
+    the nostalgic experience
+
+## Choose your world generation!
+
+When creating a new world, you will be able to choose between two different world generation
+by selecting the world type to 'Beta' to use Cabbage Beta, or simply by letting it as the
+'Default' and going to 'Data Packs' and selecting 'Hybrid Beta'.

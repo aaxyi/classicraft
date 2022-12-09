@@ -10,11 +10,20 @@ hash = "ffc1aca178e3cfee73bca954c2161f13f45a2e4dc60cc71d81001814ddc10109"
 
 [[files]]
 file = "config/nostalgic_tweaks.json"
-hash = "ea23ba559bd310a127ca399e63e382300d7ba2fd06fe7c1d261550346d80ddc8"
+hash = "1c85cc99ab9fc685925aa8fb9ff300e0d4c300beb63b9bf6ea25045ceb267dd6"
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
+file = "credits.txt"
+hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
+
+[[files]]
+file = "datapacks/optional/hybrid-beta.pw.toml"
+hash = "26fd79cac8c3ba34a02a30e8cf8937df9de1ef188c2e7eec681ffd5503f1d387"
+metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -23,7 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
+file = "mods/cabbage-beta.pw.toml"
+hash = "407ec81df39cc58db6eea0a0f5320f44a85f0c7ba9cd59f1ba67a1c974464221"
 metafile = true
 
 [[files]]
@@ -63,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "b5c5d9931a55769ff860565394b2c0fb8d046617d738dc3e263d08391a942b95"
+hash = "2ecf8a35b7a0f6f00245fc95bc1d15f40ddcbb3c31794e2447911099a326ff9c"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "dc155d04bfc0a6749042c1f8fbf4e989603f8af4222ac6c0786e964581ea1e7f"
+hash = "c8411b4fb17459c9433de7ce722a23e0a9b8600ee5d2b156e99d3d041e3ba86f"
 metafile = true
 
 [[files]]
@@ -123,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
@@ -143,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
@@ -158,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d7206d61ecd2c452b047966b6823c81ac4910eafcc113945799bf5d7c20812c4"
+hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
 metafile = true
 
 [[files]]
@@ -193,11 +207,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f2a445a4438b69d2107aeb97bf8a39be2fa312c354987bae4e54682f88084229"
+hash = "3124f558450d639515ad819777cad7da4c9eea6e84b441357d05d9f17c545337"
 
 [[files]]
 file = "resourcepacks/Caves and cliffs replacement pack.zip"
 hash = "66e9b9a59e07bfdd8f292bfb8c26ddeecb67ee89a5bbc6989e1cbb7516a68a94"
+
+[[files]]
+file = "resourcepacks/beta-doors.pw.toml"
+hash = "2894ac1cde2b9e7c254747a6d6cb22a764156850a8cf6eb1e3ce67eb765f7627"
+metafile = true
 
 [[files]]
 file = "resourcepacks/developer-art-classic.pw.toml"
@@ -205,6 +224,9 @@ hash = "b4f0413a7d9f17b6ce775dcb507d39bbb825847e4c84084cef8897ad5781b84c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/hybrid-beta-world-gen.pw.toml"
-hash = "39b04209d9bb462a33091a6a05cf1563e3805e551cc71dc6dc001865063dbd57"
-metafile = true
+file = "resourcepacks/norawores1191.zip"
+hash = "a251f0de6ec4f6ce0f156f75fc1cffad03b106e6f1875be2895fc0ceb97b213d"
+
+[[files]]
+file = "resourcepacks/unlock all recipes v2.0.4.zip"
+hash = "68a3091a073dd5427d586f7104c1c1decb6cad2b896a7807b3557961461b4aca"
