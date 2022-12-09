@@ -13,12 +13,12 @@ file = "config/nostalgic_tweaks.json"
 hash = "1c85cc99ab9fc685925aa8fb9ff300e0d4c300beb63b9bf6ea25045ceb267dd6"
 
 [[files]]
-file = "config/sodium-options.json"
-hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+file = "config/sodium-extra-options.json"
+hash = "643ff05b3a8276a0da59b7f8752fac8bed254e53d21b91760c55fc05066e32f6"
 
 [[files]]
-file = "credits.txt"
-hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
+file = "config/sodium-options.json"
+hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
 [[files]]
 file = "datapacks/optional/hybrid-beta.pw.toml"
@@ -88,10 +88,6 @@ hash = "608311fe29fcb2c311e2dec71d1805db67cfb765208247b6d78477bd9fcf4cd3"
 [[files]]
 file = "datapacks/required/norawores/pack.mcmeta"
 hash = "8bab7bc9aa31114647aa9db719d5b931cf8f77573e7e640d7351642d29566e82"
-
-[[files]]
-file = "datapacks/required/unlock all recipes v2.0.4.zip"
-hash = "68a3091a073dd5427d586f7104c1c1decb6cad2b896a7807b3557961461b4aca"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -166,11 +162,6 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "d95e508337c913a6f339f08f8cb34a6b2500959204f7e742c49e26f93e0a8060"
-metafile = true
-
-[[files]]
-file = "mods/i-know-what-im-doing.pw.toml"
-hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
 
 [[files]]
